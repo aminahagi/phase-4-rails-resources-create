@@ -246,4 +246,4 @@ Before you move on, make sure you can answer the following questions:
 
 ## Resources
 
-- [JSON Parameters](https://guides.rubyonrails.org/action_controller_overview.html#json-parameters)
+- [JSON Paraegrrmeters](https://guides.rubyonrails.org/action_controller_overview.html#json-parameters)
